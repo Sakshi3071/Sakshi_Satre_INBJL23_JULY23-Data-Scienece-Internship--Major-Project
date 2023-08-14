@@ -1,1 +1,2 @@
 # Sakshi_Satre_INBT02267_JULY23-Data-Scienece-Internship--Major-Project
+Welcome to our predictive analysis and customer segmentation project for an E-Commerce platform. This project aims to answer a fundamental question: "Can we predict the annual spending of a customer on an e-commerce platform based on their behavior and demographics?" We also explore how we can segment customers effectively for targeted marketing and personalized user experiences
